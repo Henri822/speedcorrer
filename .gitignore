@@ -1,0 +1,37 @@
+.aider*
+node_modules
+
+# Project-related files
+
+# Run logs
+run_logs/
+backend/local_assets/*
+backend/image_generation/eval_sets/*
+backend/image_generation/eval_results/*
+
+# Media and DBs
+*.mkv
+*.mp4
+*.db
+
+# Weird Docker setup related files
+backend/backend/*
+
+# Env vars
+frontend/.env.local
+backend/.env
+.env
+
+# Uploaded media
+backend/uploaded_media/*
+backend/uploaded_assets/*
+
+
+# Mac files
+.DS_Store
+
+# Rodney
+.rodney
+
+# Walkthrough demo videos
+walkthrough/
