@@ -2,7 +2,7 @@
 
 > **Plataforma de Agendamento Automático e Gerenciamento para Instagram Reels & Mídias**
 
-SpeedCorrer é um sistema completo de automação e agendamento de posts e Reels para o Instagram. Desenvolvido com um frontend ultra-responsivo em **React + Vite** e um backend de alta performance em **FastAPI (Python)** integrado diretamente com a **Meta Graph API (Instagram Business API)**.
+![SpeedCorrer Interface](docs/preview.png)
 
 ---
 
